@@ -1,0 +1,5 @@
+anthropic
+PyPDF2
+reportlab
+Pillow
+python-dotenv
